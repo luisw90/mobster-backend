@@ -17,6 +17,8 @@ router.get('/', (req, res, next) => {
 router.post('/', (req, res, next) => {
   let member = { 
     name: req.body.name,
+    linkedin: req.body.linkedin,
+    github: req.body.github,
     mobId: req.body.mobId
   }
   res.status(201).json(member);
