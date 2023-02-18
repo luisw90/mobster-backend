@@ -20,13 +20,13 @@ const membersCollection= [{
   mobId: '1'
 },
 { 
-  name: 'Sonja',
+  name: 'Sonja Kitanoska',
   linkedin: 'https://www.linkedin.com/in/sonja-kitanoska-986ba8a8/',
   github: 'https://github.com/Sonja-Kitanoska',
   mobId: '1'
 },
 { 
-  name: 'Steve',
+  name: 'Steve Moore',
   linkedin: 'https://www.linkedin.com/in/stephen-moore-swe/',
   github: 'https://github.com/SMooreSwe',
   mobId: '1'
